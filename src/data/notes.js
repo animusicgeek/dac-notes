@@ -52,14 +52,14 @@ export const notes = [
     {
     id: "spring-ashok",
     title: "Spring Boot Notes Ashok",
-    type: "Operating System",
+    type: "web java",
     image: "https://wallpapers.com/images/hd/quasar-1200-x-675-wallpaper-23ov0ogmneyqsdyj.jpg",
     pdfUrl: "notes/web-java/SPRINGBOOT NOTES BY ASHOK PATE.pdf"
   },
     {
     id: "web-java-madhura",
     title: "Web Java Madhura Maam",
-    type: "Operating System",
+    type: "web java",
     image: "https://wallpapers.com/images/hd/quasar-1200-x-675-wallpaper-23ov0ogmneyqsdyj.jpg",
     pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
   }
