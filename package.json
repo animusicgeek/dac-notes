@@ -1,0 +1,43 @@
+{
+  "homepage": "https://animusicgeek.github.io/dac-notes",
+  "name": "dac-notes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.10.8",
+    "@headlessui/react": "^2.1.2",
+    "@heroicons/react": "^2.1.4",
+    "graphql": "^16.9.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.2.1",
+    "react-router-dom": "^6.24.1",
+    "recoil": "^0.7.7",
+    "swiper": "^11.1.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.19",
+    "daisyui": "^4.12.10",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "gh-pages": "^6.3.0",
+    "postcss": "^8.4.38",
+    "sass": "^1.77.6",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.2.0"
+  }
+}
