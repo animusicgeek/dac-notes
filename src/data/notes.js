@@ -8,11 +8,18 @@ export const notes = [
     pdfUrl: "notes/sunbeam-core-java.pdf"
   },
   {
-    id: "cpp-adv",
+    id: "cpp",
     title: "C++ Programming",
     type: "C++",
     image: "https://images6.alphacoders.com/123/1232565.jpg",
     pdfUrl: "notes/cpp notes sunbeam.pdf"
+  },
+    {
+    id: "cpp-sunbeam",
+    title: "C++ Sunbeam Karad",
+    type: "C++",
+    image: "https://w.wallhaven.cc/full/76/wallhaven-766ojy.jpg",
+    pdfUrl: "notes/CPP Sunbeam Karad.pdf"
   },
   {
     id: "dotnet-arch",
@@ -42,6 +49,13 @@ export const notes = [
     image: "https://cdn.eso.org/images/screen/eso1029a.jpg",
     pdfUrl: "notes/Sunbeam Data Structure Notes.pdf"
   },
+    {
+    id: "mcq-dsa",
+    title: "MCQ DSA",
+    type: "MCQ",
+    image: "https://w.wallhaven.cc/full/od/wallhaven-odlrz7.jpg",
+    pdfUrl: "notes/MCQ DSA Khargar.pdf"
+  },
   {
     id: "os-notes",
     title: "Operating System Notes",
@@ -50,17 +64,59 @@ export const notes = [
     pdfUrl: "notes/Operating System Notes.pdf"
   },
     {
+    id: "os-mcq",
+    title: "MCQ Operating System",
+    type: "MCQ",
+    image: "https://w.wallhaven.cc/full/gp/wallhaven-gpxpg3.png",
+    pdfUrl: "notes/MCQ operating system.pdf"
+  },
+  {
     id: "spring-ashok",
     title: "Spring Boot Notes Ashok",
     type: "web java",
     image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
     pdfUrl: "notes/web-java/SPRINGBOOT NOTES BY ASHOK PATE.pdf"
   },
-    {
+  {
     id: "web-java-madhura",
     title: "Web Java Madhura Maam",
     type: "web java",
     image: "https://wallpapers.com/images/hd/quasar-1200-x-675-wallpaper-23ov0ogmneyqsdyj.jpg",
     pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
+  },
+  {
+    id: "mixed-cce-paper",
+    title: "Previous Year Question Paper (Mixed)",
+    type: "Previous Year QP",
+    image: "https://w.wallhaven.cc/full/qz/wallhaven-qz2elr.png",
+    pdfUrl: "notes/Previous CCE Question Paper.pdf"
+  },
+  {
+    id: "dot-net-2006-cce-paper",
+    title: "QP - Dot Net 2006",
+    type: "Previous Year QP",
+    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
+    pdfUrl: "notes/QP - Dot Net 2006.pdf"
+  },
+  {
+    id: "mcq-wpt-sunbeam",
+    title: "MCQ - WPT sunbeam",
+    type: "MCQ",
+    image: "https://w.wallhaven.cc/full/lm/wallhaven-lmdxdq.jpg",
+    pdfUrl: "notes/WPT sunbeam Daily MCQ.pdf"
+  },
+  {
+    id: "mcq-dbt-sunbeam",
+    title: "MCQ - DBT sunbeam",
+    type: "MCQ",
+    image: "https://w.wallhaven.cc/full/vm/wallhaven-vmq3zl.jpg",
+    pdfUrl: "notes/DBT Quiz Sunbeam.pdf"
+  },
+  {
+    id: "mcq-core-java",
+    title: "MCQ - Core Java",
+    type: "MCQ",
+    image: "https://w.wallhaven.cc/full/e7/wallhaven-e78z8r.jpg",
+    pdfUrl: "notes/Core Java CCEE Practice mcq.pdf"
   }
 ];

@@ -23,7 +23,7 @@ function Jumbotron() {
           <span className='small-shadow'>Vibe Coded by</span>
           
           <a 
-            href="https://www.youtube.com/@KaysAcoustics/" 
+            href="https://www.youtube.com/@KaysAcoustics" 
             target="_blank" 
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-yellow-300 transition-colors"

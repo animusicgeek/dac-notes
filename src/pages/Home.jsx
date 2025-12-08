@@ -30,7 +30,20 @@ function Home() {
     
     "html": "web programming",
     "css": "web programming",
-    "javascript": "web programming"
+    "javascript": "web programming",
+
+    "qp": "Previous Year QP",
+    "pyq": "Previous Year QP",
+    "paper": "Previous Year QP",
+    "previous": "Previous Year QP",
+
+    "mcq": "MCQ",
+    "quiz": "MCQ",
+    "objective": "MCQ",
+    "multiple choice": "MCQ",
+    "questions": "MCQ",
+    "test": "MCQ",
+    "exam": "MCQ"
   };
 
   const filteredNotes = notes.filter((note) => {
@@ -45,7 +58,7 @@ function Home() {
 
     Object.keys(synonyms).forEach(key => {
         if (key.startsWith(query)) {
-            searchTerms.push(synonyms[key]);
+            searchTerms.push(synonyms[key].toLowerCase());
         }
     });
 
@@ -59,6 +72,8 @@ function Home() {
 
   const categories = [
     "All", 
+    "Previous Year QP",
+    "MCQ",
     "C++", 
     "Core Java", 
     "Web Java", 
