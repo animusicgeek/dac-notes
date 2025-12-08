@@ -53,7 +53,7 @@ export const notes = [
     id: "spring-ashok",
     title: "Spring Boot Notes Ashok",
     type: "web java",
-    image: "https://wallpapers.com/images/hd/quasar-1200-x-675-wallpaper-23ov0ogmneyqsdyj.jpg",
+    image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
     pdfUrl: "notes/web-java/SPRINGBOOT NOTES BY ASHOK PATE.pdf"
   },
     {
