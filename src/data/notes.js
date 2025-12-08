@@ -12,7 +12,7 @@ export const notes = [
     title: "C++ Programming",
     type: "C++",
     image: "https://images6.alphacoders.com/123/1232565.jpg",
-    pdfUrl: "notes/math-calculus.pdf"
+    pdfUrl: "notes/cpp notes sunbeam.pdf"
   },
   {
     id: "dotnet-arch",
