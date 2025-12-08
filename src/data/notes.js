@@ -33,7 +33,7 @@ export const notes = [
     title: "Database DBT",
     type: "Database",
     image: "https://images.alphacoders.com/510/thumb-1920-510805.jpg",
-    pdfUrl: "notes/math-calculus.pdf"
+    pdfUrl: "notes/dbt notes sunbeam.pdf"
   },
   {
     id: "dsa-sunbeam",
