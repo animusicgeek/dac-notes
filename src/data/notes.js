@@ -31,7 +31,7 @@ export const notes = [
   {
     id: "mern-stack",
     title: "Web Programming WPT",
-    type: "MERN",
+    type: "Web Programming",
     image: "https://images5.alphacoders.com/132/thumb-1920-1328546.jpeg",
     pdfUrl: "notes/wpt-notes.pdf"
   },
