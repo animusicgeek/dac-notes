@@ -58,7 +58,7 @@ export const notes = [
   },
   {
     id: "os-notes",
-    title: "Operating System Sunbeam Notes",
+    title: "Operating System Sunbeam",
     type: "Operating System",
     image: "https://w.wallhaven.cc/full/p8/wallhaven-p85ye9.jpg",
     pdfUrl: "notes/OperatingSystem_Sunbeam.pdf"
