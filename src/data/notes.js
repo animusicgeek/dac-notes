@@ -102,7 +102,7 @@ export const notes = [
     id: "dot-net-2006-cce-paper",
     title: "QP - Dot Net 2006",
     type: "Previous Year QP",
-    image: "https://i.postimg.cc/4xgH2hWd/img-2025-12-09-23-06-31.png",
+    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
     pdfUrl: "notes/QP - Dot Net 2006.pdf"
   },
   {
