@@ -3,7 +3,7 @@ export const notes = [
   {
     id: "java-core",
     title: "Core Java Sunbeam Notes",
-    type: "Java",
+    type: "Core Java",
     image: "https://wallpapers.com/images/hd/exoplanet-5120-x-2880-wallpaper-gtyrq9904i9n711u.jpg",
     pdfUrl: "notes/sunbeam-core-java.pdf"
   },
@@ -80,14 +80,14 @@ export const notes = [
   {
     id: "spring-ashok",
     title: "Spring Boot Notes Ashok",
-    type: "web java",
+    type: "Web Java",
     image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
     pdfUrl: "notes/web-java/SPRINGBOOT NOTES BY ASHOK PATE.pdf"
   },
   {
     id: "web-java-madhura",
     title: "Web Java Madhura Maam",
-    type: "web java",
+    type: "Web Java",
     image: "https://wallpapers.com/images/hd/quasar-1200-x-675-wallpaper-23ov0ogmneyqsdyj.jpg",
     pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
   },
@@ -125,5 +125,19 @@ export const notes = [
     type: "MCQ",
     image: "https://w.wallhaven.cc/full/e7/wallhaven-e78z8r.jpg",
     pdfUrl: "notes/Core Java CCEE Practice mcq.pdf"
+  },
+    {
+    id: "aptitude-arun",
+    title: "Aptitude Arun Sharma",
+    type: "Aptitude",
+    image: "https://w.wallhaven.cc/full/4y/wallhaven-4yjd5k.jpg",
+    pdfUrl: "notes/Arun Sharma - Aptitude.pdf"
+  },
+      {
+    id: "aptitude-rs",
+    title: "Aptitude Arun Sharma",
+    type: "Aptitude",
+    image: "https://w.wallhaven.cc/full/n6/wallhaven-n6qrjw.jpg",
+    pdfUrl: "notes/Quantitative Aptitude RS.pdf"
   }
 ];
