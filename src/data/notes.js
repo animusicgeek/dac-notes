@@ -88,14 +88,14 @@ export const notes = [
     id: "hibernate",
     title: "Hibernate Notes",
     type: "Web Java",
-    image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
+    image: "https://i.postimg.cc/J0N7fK58/img-2025-12-17-22-01-35.png",
     pdfUrl: "notes/web-java/Hibernate Complete Notes.pdf"
   },
   {
     id: "spring-khargar",
     title: "Advance Java Kharghar",
     type: "Web Java",
-    image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
+    image: "https://i.postimg.cc/tRNjH1Gt/img-2025-12-17-22-04-09.png",
     pdfUrl: "notes/web-java/Advance Java Notes Kharghar.pdf"
   },
     {
