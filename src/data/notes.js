@@ -4,14 +4,14 @@ export const notes = [
     id: "mcq-dsa",
     title: "MCQ DSA",
     type: "MCQ",
-    image: "https://w.wallhaven.cc/full/od/wallhaven-odlrz7.jpg",
+    image: "https://i.postimg.cc/MHRd0f0L/img-2025-12-17-21-50-57.png",
     pdfUrl: "notes/MCQ DSA Khargar.pdf"
   },
   {
     id: "web-java-mcq",
     title: "MCQ - Web Java",
     type: "MCQ",
-    image: "https://w.wallhaven.cc/full/wq/wallhaven-wq1z5q.jpg",
+    image: "https://i.postimg.cc/1RTHWBfJ/img-2025-12-17-21-49-36.png",
     pdfUrl: "notes/web-java/WEB BASED JAVA PROGRAMMING MCQ BANK.pdf"
   },
   {
