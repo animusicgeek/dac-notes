@@ -12,21 +12,42 @@ export const notes = [
     title: "MCQ - Web Java",
     type: "MCQ",
     image: "https://i.postimg.cc/1RTHWBfJ/img-2025-12-17-21-49-36.png",
-    pdfUrl: "notes/mcq/web-java/WEB BASED JAVA PROGRAMMING MCQ BANK.pdf"
+    pdfUrl: "notes/mcq/WEB BASED JAVA PROGRAMMING MCQ BANK.pdf"
+  },
+  {
+    id: "adv-java-mcq",
+    title: "MCQ - Adv Java",
+    type: "MCQ",
+    image: "https://i.postimg.cc/rFfWfXMN/img-2025-12-17-23-05-37.png",
+    pdfUrl: "notes/mcq/adv java MCQs.pdf"
   },
   {
     id: "mcq-wpt-sunbeam",
     title: "MCQ - WPT sunbeam",
     type: "MCQ",
-    image: "https://w.wallhaven.cc/full/lm/wallhaven-lmdxdq.jpg",
+    image: "https://i.postimg.cc/htDZNqkM/img-2025-12-17-22-55-35.png",
     pdfUrl: "notes/mcq/WPT sunbeam Daily MCQ.pdf"
+  },
+  {
+    id: "mcq-wpt-mock",
+    title: "MCQ - WPT Mock",
+    type: "MCQ",
+    image: "https://i.postimg.cc/d3Mw90xV/img-2025-12-17-22-58-56.png",
+    pdfUrl: "notes/mcq/WBT MCQ bank.pdf"
   },
   {
     id: "mcq-dbt-sunbeam",
     title: "MCQ - DBT sunbeam",
     type: "MCQ",
-    image: "https://w.wallhaven.cc/full/vm/wallhaven-vmq3zl.jpg",
+    image: "https://i.postimg.cc/kgHZSpZn/img-2025-12-17-22-59-48.png",
     pdfUrl: "notes/mcq/DBT Quiz Sunbeam.pdf"
+  },
+  {
+    id: "mcq-dbt-mock",
+    title: "MCQ - DBT Mock",
+    type: "MCQ",
+    image: "https://i.postimg.cc/GhxTH040/img-2025-12-17-23-01-50.png",
+    pdfUrl: "notes/mcq/CCEE_MOCK_DBT.pdf"
   },
   {
     id: "os-mcq",
@@ -41,6 +62,13 @@ export const notes = [
     type: "MCQ",
     image: "https://w.wallhaven.cc/full/e7/wallhaven-e78z8r.jpg",
     pdfUrl: "notes/mcq/Core Java CCEE Practice mcq.pdf"
+  },
+  {
+    id: "mcq-sdm",
+    title: "MCQ - SDM",
+    type: "MCQ",
+    image: "https://i.postimg.cc/zBpzkp57/img-2025-12-17-22-32-09.png",
+    pdfUrl: "notes/mcq/SDM MCQ BANK.pdf"
   },
   {
     id: "dotnet-mcq",
@@ -71,11 +99,18 @@ export const notes = [
     pdfUrl: "notes/core-java/sunbeam-core-java.pdf"
   },
   {
+    id: "java-prachi",
+    title: "Core Java Prachi Notes",
+    type: "Core Java",
+    image: "https://i.postimg.cc/GmMQTT4P/img-2025-12-17-23-04-02.png",
+    pdfUrl: "notes/core-java/Java Notes By Prachi.pdf"
+  },
+  {
     id: "web-java-madhura",
     title: "Web Java Madhura Maam",
     type: "Web Java",
     image: "https://wallpapers.com/images/hd/quasar-1200-x-675-wallpaper-23ov0ogmneyqsdyj.jpg",
-    pdfUrl: "notes/web-java/web-java/ADV JAVA NOTES MADHURA.pdf"
+    pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
   },
   {
     id: "spring-ashok",
@@ -98,7 +133,21 @@ export const notes = [
     image: "https://i.postimg.cc/tRNjH1Gt/img-2025-12-17-22-04-09.png",
     pdfUrl: "notes/web-java/Advance Java Notes Kharghar.pdf"
   },
-    {
+  {
+    id: "web-java-annotations",
+    title: "IMP Spring Annotations",
+    type: "Web Java",
+    image: "https://i.postimg.cc/hj3WCtyN/img-2025-12-17-23-07-12.png",
+    pdfUrl: "notes/web-java/spring-framework-annotations.pdf"
+  },
+  {
+    id: "linux-cmds",
+    title: "IMP Linux Commands",
+    type: "SDM",
+    image: "https://i.postimg.cc/HkfttD96/img-2025-12-17-23-08-21.png",
+    pdfUrl: "notes/sdm/linuxcommands.pdf"
+  },
+  {
     id: "os-notes-sunbeam",
     title: "Operating System Notes",
     type: "Operating System",
@@ -106,11 +155,32 @@ export const notes = [
     pdfUrl: "notes/os/Operating System Notes.pdf"
   },
   {
+    id: "os-sunbeam",
+    title: "Sunbeam Operating System",
+    type: "Operating System",
+    image: "https://i.postimg.cc/VvNvC2yL/img-2025-12-17-22-21-51.png",
+    pdfUrl: "notes/os/Sunbeam Operating system Notes.pdf"
+  },
+  {
     id: "os-notes",
     title: "Operating System Sunbeam",
     type: "Operating System",
     image: "https://w.wallhaven.cc/full/p8/wallhaven-p85ye9.jpg",
     pdfUrl: "notes/os/OperatingSystem_Sunbeam.pdf"
+  },
+  {
+    id: "os-codehelp",
+    title: "OS Love Babbar",
+    type: "Operating System",
+    image: "https://i.postimg.cc/NjpKg15J/img-2025-12-17-23-11-03.png",
+    pdfUrl: "notes/os/OS_Full_Notes.pdf"
+  },
+  {
+    id: "os-more",
+    title: "OS More Notes",
+    type: "Operating System",
+    image: "https://i.postimg.cc/W3VCXJ7c/img-2025-12-17-23-12-09.png",
+    pdfUrl: "notes/os/Operating System Notes-1.pdf"
   },
   {
     id: "dotnet-arch",
@@ -127,11 +197,18 @@ export const notes = [
     pdfUrl: "notes/dotnet/DOTNET BEST NOTES 430 pgs.pdf"
   },
   {
-    id: "mern-stack",
+    id: "wpt",
     title: "Web Programming WPT",
     type: "Web Programming",
     image: "https://images5.alphacoders.com/132/thumb-1920-1328546.jpeg",
     pdfUrl: "notes/wpt/wpt-notes.pdf"
+  },
+  {
+    id: "mern-stack",
+    title: "HTML CSS JS Notes",
+    type: "Web Programming",
+    image: "https://i.postimg.cc/8k9BGgqk/img-2025-12-17-23-13-14.png",
+    pdfUrl: "notes/wpt/HTML CSS Bootstrap JavaScript and jQuery .pdf"
   },
   {
     id: "db-sql",
@@ -169,10 +246,17 @@ export const notes = [
     pdfUrl: "notes/prev/QP - Dot Net 2006.pdf"
   },
   {
+    id: "cpp-prev",
+    title: "QP - CPP Unknown",
+    type: "Previous Year QP",
+    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
+    pdfUrl: "notes/prev/cpp practice.pdf"
+  },
+  {
     id: "aptitude-arun",
     title: "Aptitude Arun Sharma",
     type: "Aptitude",
-    image: "https://w.wallhaven.cc/full/4y/wallhaven-4yjd5k.jpg",
+    image: "https://i.postimg.cc/TwZ5jXbb/img-2025-12-17-23-14-11.png",
     pdfUrl: "notes/Arun Sharma - Aptitude.pdf"
   },
   {

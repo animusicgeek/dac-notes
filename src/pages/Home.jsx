@@ -20,8 +20,8 @@ function Home() {
     "algorithm": "dsa",
     
     "os": "operating system",
-    "sdlc": "operating system",
-    "software engineering": "operating system",
+    "operating": "operating system",
+    "opera": "operating system",
     "concept of opera": "operating system",
 
     "spring": "web java",
@@ -43,7 +43,12 @@ function Home() {
     "multiple choice": "MCQ",
     "questions": "MCQ",
     "test": "MCQ",
-    "exam": "MCQ"
+    "exam": "MCQ",
+
+    "sdlc": "SDM",
+    "software engineering": "SDM",
+    "software": "SDM",    
+    "life cycle": "SDM",    
   };
 
   const filteredNotes = notes.filter((note) => {
@@ -81,6 +86,7 @@ function Home() {
     "DSA", 
     ".NET", 
     "Web Programming", 
+    "SDM",
     "Aptitude"
   ];
 
