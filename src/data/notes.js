@@ -5,49 +5,49 @@ export const notes = [
     title: "MCQ DSA",
     type: "MCQ",
     image: "https://i.postimg.cc/MHRd0f0L/img-2025-12-17-21-50-57.png",
-    pdfUrl: "notes/MCQ DSA Khargar.pdf"
+    pdfUrl: "notes/mcq/MCQ DSA Khargar.pdf"
   },
   {
     id: "web-java-mcq",
     title: "MCQ - Web Java",
     type: "MCQ",
     image: "https://i.postimg.cc/1RTHWBfJ/img-2025-12-17-21-49-36.png",
-    pdfUrl: "notes/web-java/WEB BASED JAVA PROGRAMMING MCQ BANK.pdf"
+    pdfUrl: "notes/mcq/web-java/WEB BASED JAVA PROGRAMMING MCQ BANK.pdf"
   },
   {
     id: "mcq-wpt-sunbeam",
     title: "MCQ - WPT sunbeam",
     type: "MCQ",
     image: "https://w.wallhaven.cc/full/lm/wallhaven-lmdxdq.jpg",
-    pdfUrl: "notes/WPT sunbeam Daily MCQ.pdf"
+    pdfUrl: "notes/mcq/WPT sunbeam Daily MCQ.pdf"
   },
   {
     id: "mcq-dbt-sunbeam",
     title: "MCQ - DBT sunbeam",
     type: "MCQ",
     image: "https://w.wallhaven.cc/full/vm/wallhaven-vmq3zl.jpg",
-    pdfUrl: "notes/DBT Quiz Sunbeam.pdf"
+    pdfUrl: "notes/mcq/DBT Quiz Sunbeam.pdf"
   },
   {
     id: "os-mcq",
     title: "MCQ Operating System",
     type: "MCQ",
     image: "https://w.wallhaven.cc/full/gp/wallhaven-gpxpg3.png",
-    pdfUrl: "notes/MCQ operating system.pdf"
+    pdfUrl: "notes/mcq/MCQ operating system.pdf"
   },
   {
     id: "mcq-core-java",
     title: "MCQ - Core Java",
     type: "MCQ",
     image: "https://w.wallhaven.cc/full/e7/wallhaven-e78z8r.jpg",
-    pdfUrl: "notes/Core Java CCEE Practice mcq.pdf"
+    pdfUrl: "notes/mcq/Core Java CCEE Practice mcq.pdf"
   },
   {
     id: "dotnet-mcq",
     title: "MCQ .NET",
     type: "MCQ",
     image: "https://w.wallhaven.cc/full/md/wallhaven-mdm2e9.jpg",
-    pdfUrl: "notes/MS.NET MCQ BANK.pdf"
+    pdfUrl: "notes/mcq/MS.NET MCQ BANK.pdf"
   },
   {
     id: "cpp",
@@ -68,14 +68,14 @@ export const notes = [
     title: "Core Java Sunbeam Notes",
     type: "Core Java",
     image: "https://wallpapers.com/images/hd/exoplanet-5120-x-2880-wallpaper-gtyrq9904i9n711u.jpg",
-    pdfUrl: "notes/sunbeam-core-java.pdf"
+    pdfUrl: "notes/core-java/sunbeam-core-java.pdf"
   },
   {
     id: "web-java-madhura",
     title: "Web Java Madhura Maam",
     type: "Web Java",
     image: "https://wallpapers.com/images/hd/quasar-1200-x-675-wallpaper-23ov0ogmneyqsdyj.jpg",
-    pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
+    pdfUrl: "notes/web-java/web-java/ADV JAVA NOTES MADHURA.pdf"
   },
   {
     id: "spring-ashok",
@@ -103,70 +103,70 @@ export const notes = [
     title: "Operating System Notes",
     type: "Operating System",
     image: "https://images6.alphacoders.com/138/thumb-1920-1382131.png",
-    pdfUrl: "notes/Operating System Notes.pdf"
+    pdfUrl: "notes/os/Operating System Notes.pdf"
   },
   {
     id: "os-notes",
     title: "Operating System Sunbeam",
     type: "Operating System",
     image: "https://w.wallhaven.cc/full/p8/wallhaven-p85ye9.jpg",
-    pdfUrl: "notes/OperatingSystem_Sunbeam.pdf"
+    pdfUrl: "notes/os/OperatingSystem_Sunbeam.pdf"
   },
   {
     id: "dotnet-arch",
     title: ".NET Sunbeam",
     type: ".NET",
     image: "https://i.postimg.cc/xdVx4nFz/26fa23b3-3ed7-4a28-a78c-50bb7dde24fe.jpg",
-    pdfUrl: "notes/dot-net-sunbeam-notes-2024.pdf"
+    pdfUrl: "notes/dotnet/dot-net-sunbeam-notes-2024.pdf"
   },
   {
     id: "dotnet-best",
     title: ".NET Notes",
     type: ".NET",
     image: "https://w.wallhaven.cc/full/md/wallhaven-mdm2e9.jpg",
-    pdfUrl: "notes/DOTNET BEST NOTES 430 pgs.pdf"
+    pdfUrl: "notes/dotnet/DOTNET BEST NOTES 430 pgs.pdf"
   },
   {
     id: "mern-stack",
     title: "Web Programming WPT",
     type: "Web Programming",
     image: "https://images5.alphacoders.com/132/thumb-1920-1328546.jpeg",
-    pdfUrl: "notes/wpt-notes.pdf"
+    pdfUrl: "notes/wpt/wpt-notes.pdf"
   },
   {
     id: "db-sql",
     title: "Database DBT",
     type: "Database",
     image: "https://images.alphacoders.com/510/thumb-1920-510805.jpg",
-    pdfUrl: "notes/dbt notes sunbeam.pdf"
+    pdfUrl: "notes/dbt/dbt notes sunbeam.pdf"
   },
   {
     id: "dsa-sunbeam",
     title: "Data Structure",
     type: "DSA",
     image: "https://cdn.eso.org/images/screen/eso1029a.jpg",
-    pdfUrl: "notes/Sunbeam Data Structure Notes.pdf"
+    pdfUrl: "notes/dsa/Sunbeam Data Structure Notes.pdf"
   },
   {
     id: "dsa-previous",
     title: "Question Paper DSA",
     type: "Previous Year QP",
     image: "https://w.wallhaven.cc/full/7p/wallhaven-7pkm29.jpg",
-    pdfUrl: "notes/Data Structure Paper.pdf"
+    pdfUrl: "notes/prev/Data Structure Paper.pdf"
   },
   {
     id: "mixed-cce-paper",
     title: "Question Paper (Mixed) Previous Year",
     type: "Previous Year QP",
-    image: "https://w.wallhaven.cc/full/qz/wallhaven-qz2elr.png",
-    pdfUrl: "notes/Previous CCE Question Paper.pdf"
+    image: "https://i.postimg.cc/qML6gcW5/img-2025-12-17-22-19-33.png",
+    pdfUrl: "notes/prev/Previous CCE Question Paper.pdf"
   },
   {
     id: "dot-net-2006-cce-paper",
     title: "QP - Dot Net 2006",
     type: "Previous Year QP",
     image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
-    pdfUrl: "notes/QP - Dot Net 2006.pdf"
+    pdfUrl: "notes/prev/QP - Dot Net 2006.pdf"
   },
   {
     id: "aptitude-arun",
