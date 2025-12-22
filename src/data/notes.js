@@ -240,7 +240,7 @@ export const notes = [
   },
   {
     id: "os-cce-paper",
-    title: "OS Question Paper Previous Year",
+    title: "OS Question Paper Previous",
     type: "Previous Year QP",
     image: "https://wallpaper.forfun.com/fetch/63/633e2fe022e99eb0506d4a97e6e35be2.jpeg",
     pdfUrl: "notes/prev/OS DAC Exam Previous.pdf"
