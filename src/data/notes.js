@@ -1,6 +1,62 @@
 // src/data/notes.js
 export const notes = [
   {
+    id: "dsa-previous",
+    title: "Question Paper DSA",
+    type: "Previous Year QP",
+    image: "https://w.wallhaven.cc/full/7p/wallhaven-7pkm29.jpg",
+    pdfUrl: "notes/prev/Data Structure Paper.pdf"
+  },
+  {
+    id: "mixed-cce-paper",
+    title: "Question Paper (Mixed) Previous Year",
+    type: "Previous Year QP",
+    image: "https://i.postimg.cc/qML6gcW5/img-2025-12-17-22-19-33.png",
+    pdfUrl: "notes/prev/Previous CCE Question Paper.pdf"
+  },
+  {
+    id: "dot-cce-paper",
+    title: ".NET QP Last Year",
+    type: "Previous Year QP",
+    image: "https://wallpapercave.com/uwp/uwp4630393.png",
+    pdfUrl: "notes/prev/MS.NET_QuestionPaper.pdf"
+  },
+  {
+    id: "dbt-cce-paper",
+    title: "DBT QP Last Year",
+    type: "Previous Year QP",
+    image: "https://wallpapercave.com/wp/wp13355409.jpg",
+    pdfUrl: "notes/prev/DBT_QPaper_LastBatch.pdf"
+  },
+  {
+    id: "core-java-cce-paper",
+    title: "Java QP Last Year",
+    type: "Previous Year QP",
+    image: "https://wallpapercave.com/wp/wp14274143.jpg",
+    pdfUrl: "notes/prev/CoreJava_QuestionPaper.pdf"
+  },
+  {
+    id: "os-cce-paper",
+    title: "OS Question Paper",
+    type: "Previous Year QP",
+    image: "https://wallpaper.forfun.com/fetch/63/633e2fe022e99eb0506d4a97e6e35be2.jpeg",
+    pdfUrl: "notes/prev/OS DAC Exam Previous.pdf"
+  },
+  {
+    id: "dot-net-2006-cce-paper",
+    title: "QP - Dot Net 2006",
+    type: "Previous Year QP",
+    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
+    pdfUrl: "notes/prev/QP - Dot Net 2006.pdf"
+  },
+  {
+    id: "cpp-prev",
+    title: "QP - CPP Unknown",
+    type: "Previous Year QP",
+    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
+    pdfUrl: "notes/prev/cpp practice.pdf"
+  },
+  {
     id: "mcq-dsa",
     title: "MCQ DSA",
     type: "MCQ",
@@ -223,41 +279,6 @@ export const notes = [
     type: "DSA",
     image: "https://cdn.eso.org/images/screen/eso1029a.jpg",
     pdfUrl: "notes/dsa/Sunbeam Data Structure Notes.pdf"
-  },
-  {
-    id: "dsa-previous",
-    title: "Question Paper DSA",
-    type: "Previous Year QP",
-    image: "https://w.wallhaven.cc/full/7p/wallhaven-7pkm29.jpg",
-    pdfUrl: "notes/prev/Data Structure Paper.pdf"
-  },
-  {
-    id: "mixed-cce-paper",
-    title: "Question Paper (Mixed) Previous Year",
-    type: "Previous Year QP",
-    image: "https://i.postimg.cc/qML6gcW5/img-2025-12-17-22-19-33.png",
-    pdfUrl: "notes/prev/Previous CCE Question Paper.pdf"
-  },
-  {
-    id: "os-cce-paper",
-    title: "OS Question Paper",
-    type: "Previous Year QP",
-    image: "https://wallpaper.forfun.com/fetch/63/633e2fe022e99eb0506d4a97e6e35be2.jpeg",
-    pdfUrl: "notes/prev/OS DAC Exam Previous.pdf"
-  },
-  {
-    id: "dot-net-2006-cce-paper",
-    title: "QP - Dot Net 2006",
-    type: "Previous Year QP",
-    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
-    pdfUrl: "notes/prev/QP - Dot Net 2006.pdf"
-  },
-  {
-    id: "cpp-prev",
-    title: "QP - CPP Unknown",
-    type: "Previous Year QP",
-    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
-    pdfUrl: "notes/prev/cpp practice.pdf"
   },
   {
     id: "aptitude-arun",
