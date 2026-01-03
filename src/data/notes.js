@@ -36,6 +36,27 @@ export const notes = [
     pdfUrl: "notes/prev/CoreJava_QuestionPaper.pdf"
   },
   {
+    id: "wpt-cce-paper",
+    title: "WPT QP Last Year",
+    type: "Previous Year QP",
+    image: "https://i.imgur.com/jms2rIn.jpeg",
+    pdfUrl: "notes/prev/WPT_QuestionPaperCOVID.pdf"
+  },
+  {
+    id: "sdm-cce-paper",
+    title: "SDM QP Last Year",
+    type: "Previous Year QP",
+    image: "https://i.imgur.com/IZyTICW.jpeg",
+    pdfUrl: "notes/prev/ASDM_QuestionPaper COVID.pdf"
+  },
+  {
+    id: "adv-java-cce-paper",
+    title: "Web Java QP Last Year",
+    type: "Previous Year QP",
+    image: "https://i.imgur.com/mRykaEk.jpeg",
+    pdfUrl: "notes/prev/ADV_java_QuestionPaper COVID.pdf"
+  },
+  {
     id: "os-cce-paper",
     title: "OS Question Paper",
     type: "Previous Year QP",
@@ -46,7 +67,7 @@ export const notes = [
     id: "dot-net-2006-cce-paper",
     title: "QP - Dot Net 2006",
     type: "Previous Year QP",
-    image: "https://w.wallhaven.cc/full/ey/wallhaven-eyqppk.jpg",
+    image: "https://i.imgur.com/jau2RVv.jpeg",
     pdfUrl: "notes/prev/QP - Dot Net 2006.pdf"
   },
   {
