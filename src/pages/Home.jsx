@@ -18,6 +18,10 @@ function Home() {
     "data structure": "dsa",
     "data structures": "dsa",
     "algorithm": "dsa",
+
+    "database": "Database",
+    "dbt": "Database",
+    "sql": "Database",
     
     "os": "operating system",
     "operating": "operating system",
@@ -80,7 +84,8 @@ function Home() {
     "Previous Year QP",
     "MCQ",
     "C++", 
-    "Core Java", 
+    "Core Java",
+    "Database",
     "Web Java", 
     "Operating System", 
     "DSA", 
