@@ -190,10 +190,17 @@ export const notes = [
     pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
   },
   {
+    id: "web-java-best",
+    title: "Web Java BEST NOTES!!",
+    type: "Web Java",
+    image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
+    pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
+  },
+  {
     id: "spring-ashok",
     title: "Web Java Notes Ashok",
     type: "Web Java",
-    image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
+    image: "https://apod.nasa.gov/apod/image/2301/jwst-ngc346.png",    
     pdfUrl: "notes/web-java/ADVANCED JAVA NOTES BY ASHOK PATE.pdf"
   },
   {
@@ -209,6 +216,13 @@ export const notes = [
     type: "Web Java",
     image: "https://i.postimg.cc/tRNjH1Gt/img-2025-12-17-22-04-09.png",
     pdfUrl: "notes/web-java/Advance Java Notes Kharghar.pdf"
+  },
+  {
+    id: "spring-annotations",
+    title: "VVIMP Spring Annotations",
+    type: "Web Java",
+    image: "https://i.imgur.com/gByCQrE.jpeg",
+    pdfUrl: "notes/web-java/spring-framework-annotations.pdf"
   },
   {
     id: "web-java-annotations",
