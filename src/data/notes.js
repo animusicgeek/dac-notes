@@ -197,10 +197,17 @@ export const notes = [
     pdfUrl: "notes/web-java/Advance Java DAC.pdf"
   },
   {
+    id: "jsp",
+    title: "JSP Notes",
+    type: "Web Java",
+    image: "https://www.universetoday.com/article_images/eso1917a_20260103_174530.jpg",
+    pdfUrl: "notes/web-java/Java Server Page (JSP).pdf"
+  },
+  {
     id: "spring-ashok",
     title: "Web Java Notes Ashok",
     type: "Web Java",
-    image: "https://apod.nasa.gov/apod/image/2301/jwst-ngc346.png",    
+    image: "https://apod.nasa.gov/apod/image/2301/jwst-ngc346.png",
     pdfUrl: "notes/web-java/ADVANCED JAVA NOTES BY ASHOK PATE.pdf"
   },
   {
