@@ -194,7 +194,7 @@ export const notes = [
     title: "Web Java BEST NOTES!!",
     type: "Web Java",
     image: "https://wallpapers.com/images/hd/celestial-bodies-1920-x-1080-wallpaper-i6qs1mkl9z5mhgpp.jpg",
-    pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
+    pdfUrl: "notes/web-java/Advance Java DAC.pdf"
   },
   {
     id: "spring-ashok",
