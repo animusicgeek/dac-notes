@@ -295,6 +295,13 @@ export const notes = [
     pdfUrl: "notes/dotnet/DOTNET BEST NOTES 430 pgs.pdf"
   },
   {
+    id: "dotnet-iacsd",
+    title: "IACSD Dot NET",
+    type: ".NET",
+    image: "https://www.universetoday.com/article_images/IMG_8608_20251231_230759.jpeg",
+    pdfUrl: "notes/dotnet/IACSD DotNet Notes.pdf"
+  },
+  {
     id: "wpt",
     title: "Web Programming WPT",
     type: "Web Programming",
