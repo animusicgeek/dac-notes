@@ -309,6 +309,13 @@ export const notes = [
     pdfUrl: "notes/wpt/wpt-notes.pdf"
   },
   {
+    id: "wpt-no-react",
+    title: "Best!! WPT (no react)",
+    type: "Web Programming",
+    image: "https://www.universetoday.com/article_images/A_Horseshoe_Einstein_Ring_from_Hubble_20251215_001652.JPG",
+    pdfUrl: "notes/wpt/WPT no react.pdf"
+  },
+  {
     id: "mern-stack",
     title: "HTML CSS JS Notes",
     type: "Web Programming",
