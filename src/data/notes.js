@@ -183,6 +183,13 @@ export const notes = [
     pdfUrl: "notes/core-java/sunbeam-core-java.pdf"
   },
   {
+    id: "java-iacsd",
+    title: "Java IACSD",
+    type: "Core Java",
+    image: "https://cdn.esahubble.org/archives/images/screen/heic0715a.jpg",
+    pdfUrl: "notes/core-java/Java IACSD.pdf"
+  },
+  {
     id: "java-prachi",
     title: "Core Java Prachi Notes",
     type: "Core Java",
