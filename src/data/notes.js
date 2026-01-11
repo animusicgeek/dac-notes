@@ -190,6 +190,13 @@ export const notes = [
     pdfUrl: "notes/core-java/Java IACSD.pdf"
   },
   {
+    id: "java-daywise",
+    title: "Day Wise Java",
+    type: "Core Java",
+    image: "https://cdn.esahubble.org/archives/images/screen/heic0206c.jpg",
+    pdfUrl: "notes/core-java/Java_day_wise.pdf"
+  },
+  {
     id: "java-prachi",
     title: "Core Java Prachi Notes",
     type: "Core Java",
