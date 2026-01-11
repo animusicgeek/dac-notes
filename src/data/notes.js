@@ -162,6 +162,13 @@ export const notes = [
     pdfUrl: "notes/cpp/cpp notes sunbeam.pdf"
   },
   {
+    id: "cpp-iacsd",
+    title: "C++ IACSD",
+    type: "C++",
+    image: "https://www.universetoday.com/article_images/light-spiral-fractal-art-space-8c9810dc5d3cfca6f8157db0c0ce3eb2_20260107_000922.jpg",
+    pdfUrl: "notes/cpp/CPP IACSD.pdf"
+  },
+  {
     id: "cpp-sunbeam",
     title: "C++ Sunbeam Karad",
     type: "C++",
