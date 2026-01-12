@@ -352,14 +352,14 @@ export const notes = [
   },
   {
     id: "dsa-sunbeam",
-    title: "Data Structure Sunbeam Old",
+    title: "DSA Sunbeam Old",
     type: "DSA",
     image: "https://cdn.eso.org/images/screen/eso1029a.jpg",
     pdfUrl: "notes/dsa/Sunbeam Data Structure Notes.pdf"
   },
   {
     id: "dsa-sunbeam-notes",
-    title: "Data Structure Sunbeam New",
+    title: "DSA Sunbeam New",
     type: "DSA",
     image: "https://cdn.esahubble.org/archives/images/screen/heic0206b.jpg",
     pdfUrl: "notes/dsa/DSA sunbeam 2024 notes.pdf"
