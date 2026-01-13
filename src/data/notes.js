@@ -376,13 +376,20 @@ export const notes = [
     title: "Aptitude Arun Sharma",
     type: "Aptitude",
     image: "https://i.postimg.cc/TwZ5jXbb/img-2025-12-17-23-14-11.png",
-    pdfUrl: "notes/Arun Sharma - Aptitude.pdf"
+    pdfUrl: "notes/apti/Arun Sharma - Aptitude.pdf"
+  },
+  {
+    id: "aptitude-notes",
+    title: "Aptitude Notes",
+    type: "Aptitude",
+    image: "https://cdn.esahubble.org/archives/images/screen/potw2036a.jpg",
+    pdfUrl: "notes/apti/Aptitude Notes.pdf"
   },
   {
     id: "aptitude-rs",
     title: "Aptitude RadheShyam Ji",
     type: "Aptitude",
     image: "https://w.wallhaven.cc/full/n6/wallhaven-n6qrjw.jpg",
-    pdfUrl: "notes/Quantitative Aptitude RS.pdf"
+    pdfUrl: "notes/apti/Quantitative Aptitude RS.pdf"
   }
 ];
