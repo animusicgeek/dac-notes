@@ -257,7 +257,7 @@ export const notes = [
     title: "VVIMP Spring Annotations",
     type: "Web Java",
     image: "https://i.imgur.com/gByCQrE.jpeg",
-    pdfUrl: "notes/web-java/spring-framework-annotations.pdf"
+    pdfUrl: "notes/web-java/SpringBoot Annotations.pdf"
   },
   {
     id: "web-java-annotations",
