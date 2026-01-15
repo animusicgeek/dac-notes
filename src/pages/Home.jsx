@@ -48,11 +48,7 @@ function Home() {
     "questions": "MCQ",
     "test": "MCQ",
     "exam": "MCQ",
-
-    "sdlc": "SDM",
-    "software engineering": "SDM",
-    "software": "SDM",    
-    "life cycle": "SDM",    
+   
   };
 
   const filteredNotes = notes.filter((note) => {
