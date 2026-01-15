@@ -269,42 +269,49 @@ export const notes = [
   {
     id: "linux-cmds",
     title: "IMP Linux Commands",
-    type: "SDM",
+    type: "OS & SDM",
     image: "https://i.postimg.cc/HkfttD96/img-2025-12-17-23-08-21.png",
     pdfUrl: "notes/sdm/linuxcommands.pdf"
   },
   {
     id: "os-notes-sunbeam",
     title: "Operating System Notes",
-    type: "Operating System",
+    type: "OS & SDM",
     image: "https://images6.alphacoders.com/138/thumb-1920-1382131.png",
     pdfUrl: "notes/os/Operating System Notes.pdf"
   },
   {
     id: "os-sunbeam",
     title: "Sunbeam Operating System",
-    type: "Operating System",
+    type: "OS & SDM",
     image: "https://i.postimg.cc/VvNvC2yL/img-2025-12-17-22-21-51.png",
     pdfUrl: "notes/os/Sunbeam Operating system Notes.pdf"
   },
   {
+    id: "os-notion",
+    title: "OS & SDM Notion Notes",
+    type: "OS & SDM",
+    image: "https://cdn.esahubble.org/archives/images/screen/potw1720a.jpg",
+    pdfUrl: "notes/os/OS Notion.pdf"
+  },
+  {
     id: "os-notes",
     title: "Operating System Sunbeam",
-    type: "Operating System",
+    type: "OS & SDM",
     image: "https://w.wallhaven.cc/full/p8/wallhaven-p85ye9.jpg",
     pdfUrl: "notes/os/OperatingSystem_Sunbeam.pdf"
   },
   {
     id: "os-codehelp",
     title: "OS Love Babbar",
-    type: "Operating System",
+    type: "OS & SDM",
     image: "https://i.postimg.cc/NjpKg15J/img-2025-12-17-23-11-03.png",
     pdfUrl: "notes/os/OS_Full_Notes.pdf"
   },
   {
     id: "os-more",
     title: "OS More Notes",
-    type: "Operating System",
+    type: "OS & SDM",
     image: "https://i.postimg.cc/W3VCXJ7c/img-2025-12-17-23-12-09.png",
     pdfUrl: "notes/os/Operating System Notes-1.pdf"
   },
