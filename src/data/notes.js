@@ -267,6 +267,13 @@ export const notes = [
     pdfUrl: "notes/web-java/spring-framework-annotations.pdf"
   },
   {
+    id: "web-java-ms",
+    title: "Microservices Madhura",
+    type: "Web Java",
+    image: "https://i.postimg.cc/hj3WCtyN/img-2025-12-17-23-07-12.png",
+    pdfUrl: "notes/web-java/Building MicroServices using Spring Cloud.pdf"
+  },
+  {
     id: "linux-cmds",
     title: "IMP Linux Commands",
     type: "OS & SDM",
