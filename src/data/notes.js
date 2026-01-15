@@ -211,6 +211,13 @@ export const notes = [
     pdfUrl: "notes/web-java/ADV JAVA NOTES MADHURA.pdf"
   },
   {
+    id: "web-java-kays",
+    title: "Web Java Kays Acoustics",
+    type: "Web Java",
+    image: "https://cdn.esahubble.org/archives/images/screen/heic0821b.jpg",
+    pdfUrl: "notes/web-java/Advance Java Kays.pdf"
+  },
+  {
     id: "web-java-best",
     title: "Web Java BEST NOTES!!",
     type: "Web Java",
