@@ -23,10 +23,10 @@ function Home() {
     "dbt": "Database",
     "sql": "Database",
     
-    "os": "operating system",
-    "operating": "operating system",
-    "opera": "operating system",
-    "concept of opera": "operating system",
+    "os": "OS & SDM",
+    "operating": "OS & SDM",
+    "opera": "OS & SDM",
+    "concept of opera": "OS & SDM",
 
     "spring": "web java",
     "spring boot": "web java",
@@ -83,11 +83,10 @@ function Home() {
     "Core Java",
     "Database",
     "Web Java", 
-    "Operating System", 
+    "OS & SDM", 
     "DSA", 
     ".NET", 
     "Web Programming", 
-    "SDM",
     "Aptitude"
   ];
 
